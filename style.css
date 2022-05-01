@@ -1,0 +1,46 @@
+img {
+    width: 20%;
+}
+
+div {
+    background-color: rgb(141, 141, 141);
+    color: azure;
+    font-weight: 600;
+    width: 70%;
+    margin-left: 200px;
+    margin-top: 70px;
+    border-radius: 30px;
+    padding-top: 20px;
+}
+
+#abc {
+    margin-top: -70px;
+    margin-left: 400px;
+}
+p {
+    font-size: 20px;
+    margin-left: 150px;
+
+}
+
+img {
+    margin: 40;
+    border-radius: 10px;
+    margin-left: 80px;
+    margin-top: -10px;
+}
+
+#ab{
+    margin-top: -40px;
+    margin-left: 700px;
+}
+
+h4 {
+    margin-left: 600px;
+}
+
+h1 {
+    margin-left: 500px;
+    font-weight: 600;
+    color: black;
+}
